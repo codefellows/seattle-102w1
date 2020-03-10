@@ -1,6 +1,3 @@
-<!-- Please make EDITS to README -->
-<!-- Please make EDITS to README -->
-
 # Code 102: Intro to Software Development
 
 ## Welcome to Code Fellows!
@@ -11,10 +8,10 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: EDIT,  email: EDIT, slack: EDIT
+Instructor: Brad Smialek,  email: brad.smialek@codefellows.com, slack: @BradSmialek
 
 
-**[Link to Canvas Assignments](https://canvas.instructure.com/courses/EDIT)**
+**[Link to Canvas Assignments](https://canvas.instructure.com/courses/1853761)**
 
 ### Course Schedule
 
@@ -35,6 +32,6 @@ Instructor: EDIT,  email: EDIT, slack: EDIT
 - Take notes during class.
 - Keep up with the daily assignments (code and reading).
 - Research topics that are new or confusing.
-- Speak up when you're stuck for more than 15 minutes.
+- Contact your instructor when you get stuck.
 - Be thorough and deliberate when reading error messages and console/terminal responses. Take your time and do not go too fast. Always know what you are doing.
 - And, above all else, pay attention to details.
